@@ -2,3 +2,5 @@ node_modules/
 *.js
 *.tsbuildinfo
 !*.config.js
+
+/MyCode/06-Array/ArrayDemo/dist/
